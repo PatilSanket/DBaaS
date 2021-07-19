@@ -1,0 +1,10 @@
+{
+  "name": "dbaas",
+  "version": "1.0.0",
+  "description": "",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongodb": "^3.6.6",
+    "serverless-http": "^2.7.0"
+  }
+}
